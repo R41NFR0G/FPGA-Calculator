@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec  7 10:38:19 2021
+# Process ID: 19212
+# Current directory: C:/Users/cat nip sana/Desktop/bullshit/school/4-fall 2021/digital logic design/vivadofiles/finalproject/finalproject.runs/synth_1
+# Command line: vivado.exe -log FSM_TOP.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FSM_TOP.tcl
+# Log file: C:/Users/cat nip sana/Desktop/bullshit/school/4-fall 2021/digital logic design/vivadofiles/finalproject/finalproject.runs/synth_1/FSM_TOP.vds
+# Journal file: C:/Users/cat nip sana/Desktop/bullshit/school/4-fall 2021/digital logic design/vivadofiles/finalproject/finalproject.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source FSM_TOP.tcl -notrace
